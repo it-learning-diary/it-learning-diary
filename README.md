@@ -4,11 +4,11 @@
 
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-learning-diary&show_icons=true&theme=calm) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-learning-diary&show_icons=true&theme=calm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-learning-diary&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-learning-diary&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-learning-diary&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
