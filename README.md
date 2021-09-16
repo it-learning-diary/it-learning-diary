@@ -15,7 +15,7 @@
 <h2 align="center">
   Contact Me
 </h2>
-<p align="center">
+<p >
 	<a href="https://juejin.cn/user/686575843556008/posts" title="IT学习日记" target="_blank">
 		<img src="https://img.shields.io/badge/Juejin-%E6%8E%98%E9%87%91-9cf?style=plastic&amp;labelColor=2571be&amp;logoColor=226db8&amp;logo=jQuery&amp;logoColor=fff&amp;color=f2e99c" alt="掘金" /></a>
 	<a href="https://gitee.com/it-learning-diary/dashboard/projects" title="IT学习日记" target="_blank">
