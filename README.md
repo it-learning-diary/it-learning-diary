@@ -9,8 +9,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-learning-diary&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
-
-
+### linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 <!--
 **it-learning-diary/it-learning-diary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
