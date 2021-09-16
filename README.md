@@ -42,8 +42,24 @@
 </p>
 
 <h2>
+Self-Introduction
 </h2>
 
+<br/>
+
+ &emsp;&emsp;**一个只搞干货的博主！** CSDN、知乎、今日头条、公众号等平台优质博主！全网粉丝1w+,致力于打造属于技术人自己的圈子，拓展技术人的人脉，资源！学习、转载、投稿、互推、合作等欢迎添加
+ 如果对你有帮助，请给博主【Star】和【Watch】!
+ 
+ <br/>
+ 
+ &emsp;&emsp;**技术圈子：** https://app.yinxiang.com/fx/93d441d2-7cb6-4c13-9b16-5d2df3085984 <br/>
+ 
+ <br/>
+ 
+ ![蓝色水波纹时尚类横版图文配图](https://user-images.githubusercontent.com/43887201/133605539-e861f964-fab7-485f-8a24-59f0832d1155.jpg)
+
+ 
+ 
 
 <!--
 **it-learning-diary/it-learning-diary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
