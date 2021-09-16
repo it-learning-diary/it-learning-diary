@@ -3,7 +3,7 @@
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=it-learning-diary&theme=nord&custom_title=It-learning-diary%20Contribution%20Graph)
 
 
-<hr/>
+<h2></h2>
 
 
 ### 二、Language ⚡
@@ -11,6 +11,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-learning-diary&show_icons=true&theme=calm) &emsp;&emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-learning-diary&theme=calm)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-learning-diary&theme=prussian&hide_border=true)
+
+<h2 align="center">
+  Contact Me
+</h2>
 
 ### linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.archlinux.org/)
