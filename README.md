@@ -52,7 +52,7 @@ Self-Introduction
  
  <br/>
  
- &emsp;&emsp;**技术圈子：** https://app.yinxiang.com/fx/93d441d2-7cb6-4c13-9b16-5d2df3085984 <br/>
+ &emsp;&emsp;**技术圈子：** 免费分享学习路线、面试干货、收费资源、成长感悟，希望借助此平台打造属于技术人的圈子！通过圈子的人脉和资源，跳出技术人35岁的门槛，期待志同道合的伙伴加入，共同维护圈子！<a href="https://app.yinxiang.com/fx/93d441d2-7cb6-4c13-9b16-5d2df3085984" title="技术圈子" target="_blank">**技术圈子直通车** </a> <br/>
  
  <br/>
  
