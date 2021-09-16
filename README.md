@@ -12,7 +12,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-learning-diary&theme=prussian&hide_border=true)
 
-<h2 align="center">
+<h2>
   Contact Me
 </h2>
 <p >
@@ -35,9 +35,14 @@
 </h2>
 <p align="center">
   
-  ![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)
-  
+![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)	![](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=ffffff)
+![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)	![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)	
+
 </p>
+
+<h2>
+</h2>
 
 
 <!--
