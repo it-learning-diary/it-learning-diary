@@ -4,15 +4,13 @@
 
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-learning-diary&show_icons=true&theme=calm) &emsp;&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-learning-diary&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-learning-diary&show_icons=true&theme=calm) &emsp;&emsp;&emsp;&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-learning-diary&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it-learning-diary&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-learning-diary&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-learning-diary&repo=spring_parent&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Metrics](https://metrics.lecoq.io/it-learning-diary?template=classic&config.timezone=Asia%2FShanghai)
