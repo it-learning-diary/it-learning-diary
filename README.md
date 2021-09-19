@@ -66,7 +66,12 @@ Catalog(Use: Ctrl +F)
 
  <br/>
  
- ### 面试干货
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133919151-266bc14b-4d6a-41b3-ae38-1ee99971bb5e.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_11121231.html" target="_blank" line-height="50">面试干货</a>
+</h3>
+
+
  - <a href="https://blog.csdn.net/qq_40891009/article/details/107900217?spm=1001.2014.3001.5502" target="_blank">面试宝典(一) - 让你不再错过“金九银十“的求职浪潮之简历包装篇</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/107923282?spm=1001.2014.3001.5502" target="_blank">面试宝典(二)之经典面试题(含详细答案)</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/108612101?spm=1001.2014.3001.5502" target="_blank">面试干货】单例模式的七种写法</a>
@@ -90,7 +95,13 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/118164026?spm=1001.2014.3001.5502" target="_blank">【秋招冲刺】应届生JAVA岗-每日5道高频面试题【Day7】- 集合篇(1)</a>
 
  
- ### JAVA-常见开发问题 
+
+
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920038-ee743160-d3fa-48b9-9b61-c2fa05424b5d.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_9412713.html" target="_blank" line-height="50">开发常见问题</a>
+</h3>
+
  <a href="" target="_blank"></a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102477566?spm=1001.2014.3001.5502" target="_blank">JAVA文件下载方式和获取文件下载进度方式</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102673358?spm=1001.2014.3001.5502" target="_blank">解决:Could not write JSON: No serializer found for class *** and no properties错误</a>
@@ -112,12 +123,24 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/107700790?spm=1001.2014.3001.5502" target="_blank">全网最全面、全详细的编码、解码知识！</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/108309980?spm=1001.2014.3001.5502" target="_blank">一文带你玩转“泛型“</a>
 
- ### JAVA进阶知识
+ 
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920038-ee743160-d3fa-48b9-9b61-c2fa05424b5d.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_9412713.html" target="_blank" line-height="50">JAVA进阶知识</a>
+</h3>
+ 
  - <a href="https://blog.csdn.net/qq_40891009/article/details/119581757?spm=1001.2014.3001.5502" target="_blank">面试官的窒息逼问: 到底什么是面向接口编程?</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/119843599?spm=1001.2014.3001.5502" target="_blank">什么是面向切面编程?</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/119960232?spm=1001.2014.3001.5502" target="_blank">哟，在面向监狱编程呢！</a>
 
- ### JAVA后端框架
+
+
+<h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920136-d4a49a23-ecec-4ca8-8126-82f5c37fd928.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_10194217.html" target="_blank" line-height="50">JAVA后端框架</a>
+</h3>
+
+
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102486846?spm=1001.2014.3001.5502" target="_blank">SpringMVC文件上传(MultipartFile)</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103059993?spm=1001.2014.3001.5502" target="_blank">SpringBoot中Transaction注解不起作用原因</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103108655?spm=1001.2014.3001.5502" target="_blank">SpringBoot中使用Transaction注解遇到的坑</a>
@@ -137,7 +160,13 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/107675275?spm=1001.2014.3001.5502" target="_blank">@RequestParam和@PathVariable的作用</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/108553418?spm=1001.2014.3001.5502" target="_blank">RabbitMQ最全使用教程-小白也能看懂</a>
 
- ### 前端框架
+
+ 
+ <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920162-2e45b568-5978-46cc-aedb-503a354a8255.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_10257548.html" target="_blank" line-height="50">前端框架</a>
+</h3>
+ 
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102786634?spm=1001.2014.3001.5502" target="_blank">layui阻止文件上传</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102788839?spm=1001.2014.3001.5502" target="_blank">css中relative布局和absolute布局的使用</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103058564?spm=1001.2014.3001.5502" target="_blank">layui的日历组件(laydate)自动设置时间</a>
@@ -146,7 +175,13 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103256146?spm=1001.2014.3001.5502" target="_blank">Html5新属性Data-type的作用</a>
  
  
- ### 数据库
+
+
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920198-0155d844-1a19-4d13-bcd0-9d4c55c35574.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_9991861.html" target="_blank" line-height="50">数据库</a>
+</h3>
+ 
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103157931?spm=1001.2014.3001.5502" target="_blank">Mysql忘记初始密码时修改方式</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/106007658?spm=1001.2014.3001.5502" target="_blank">你真的懂for update?(面试必备)</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/106034376?spm=1001.2014.3001.5502" target="_blank">你真的懂事务的隔离级别?(面试必问知识)</a>
@@ -161,7 +196,13 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/119274257?spm=1001.2014.3001.5502" target="_blank">【肝了三天-建议收藏】实战-万字长文-带你刨析MySQL乱码、字符集和比较规则</a>
  
  
- ### 运维技术
+
+
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920224-1677b524-9595-4e3d-a152-f138a03ebea9.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_10282492.html" target="_blank" line-height="50">运维技术</a>
+</h3>
+
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103898876?spm=1001.2014.3001.5502" target="_blank">Docker方式启动tomcat,访问首页出现404错误</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/104012792?spm=1001.2014.3001.5502" target="_blank">Docker方式启动tomcat,访问首页出现404错误(第二篇 -- 将修改过的容器映射成镜像)</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/104086546?spm=1001.2014.3001.5502" target="_blank">三分钟轻松实现Docker将本地镜像推送到阿里云</a>
@@ -171,11 +212,21 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/114799370?spm=1001.2014.3001.5502" target="_blank">【全网】Nginx最全使用教程</a>
 
  
- ### 博客技巧
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920248-fd19f405-2d81-4a83-b918-de002b72dc3c.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_11134317.html" target="_blank" line-height="50">博客技巧</a>
+</h3>
+
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102481647?spm=1001.2014.3001.5502" target="_blank">CSDN-Markdown编辑器--修改字体颜色、大小、字号</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102812586?spm=1001.2014.3001.5502" target="_blank">修改CSDN博客中自动生成的ID步骤</a>
 
- ### 资源分享
+
+
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920274-584c5595-5f36-48ea-88fe-a62afae9c852.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_11285813.html" target="_blank" line-height="50">资源分享</a>
+</h3>
+ 
  - <a href="https://blog.csdn.net/qq_40891009/article/details/103058921?spm=1001.2014.3001.5502" target="_blank">百度云盘免费下载postman</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/107328595?spm=1001.2014.3001.5502" target="_blank">IDEA的正确用法-程序员必备插件</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/117189067?spm=1001.2014.3001.5502" target="_blank">每日收藏】资深开发者的开发工具</a>
@@ -183,8 +234,12 @@ Catalog(Use: Ctrl +F)
  - <a href="https://blog.csdn.net/qq_40891009/article/details/119697835?spm=1001.2014.3001.5502" target="_blank">七夕超多表情包入侵 - 100%提升博客美感(六千粉丝福利)!</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/120074712?spm=1001.2014.3001.5502" target="_blank">【逼格瞬间提升100%】摆脱广告烦恼，拥有这5款插件，帮助你工作摸鱼两不误！</a>
 
- 
- ### "计"算人生
+
+  <h3 style="background:darkgrey">
+    <img src="https://user-images.githubusercontent.com/43887201/133920299-5ef39f7c-5671-4946-b184-745b115b3b38.png" width="50" vertical-align="middle" style="box-sizing: border-box;vertical-align: middle !important;max-width: 100%;" >&nbsp;
+    <a href="https://blog.csdn.net/qq_40891009/category_11161979.html" target="_blank" line-height="50">"计"算人生</a>
+</h3>
+
  - <a href="https://blog.csdn.net/qq_40891009/article/details/102870508?spm=1001.2014.3001.5502" target="_blank">笔记本安装固态涉及到的注意事项</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/104072515?spm=1001.2014.3001.5502" target="_blank">备案是针对域名还是服务器？</a>
  - <a href="https://blog.csdn.net/qq_40891009/article/details/104711966?spm=1001.2014.3001.5502" target="_blank">一文轻松读懂微服务、集群、分布式的概念和区别</a>
