@@ -1,3 +1,24 @@
+<h2>
+Self-Introduction
+</h2>
+
+<br/>
+
+ &emsp;&emsp;**一个只搞干货的博主！** CSDN、知乎、今日头条、公众号等平台优质博主！全网粉丝1w+,致力于打造属于技术人自己的圈子，拓展技术人的人脉，资源！学习、转载、投稿、互推、合作等欢迎添加
+ 如果对你有帮助，**请给博主【Star】和【Watch】**!
+ 
+ <br/>
+ 
+ &emsp;&emsp;**技术圈子：** 免费分享学习路线、面试干货、收费资源、成长感悟，希望借助此平台打造属于技术人的圈子！通过圈子的人脉和资源，跳出技术人35岁的门槛，期待志同道合的伙伴加入，共同维护圈子！<a href="https://app.yinxiang.com/fx/93d441d2-7cb6-4c13-9b16-5d2df3085984" title="技术圈子" target="_blank">**技术圈子直通车** </a> <br/>
+ 
+ <br/>
+ 
+ ![蓝色水波纹时尚类横版图文配图](https://user-images.githubusercontent.com/43887201/133605539-e861f964-fab7-485f-8a24-59f0832d1155.jpg)
+
+  <br/>
+  
+
+
 ### Contribution 👋
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=it-learning-diary&theme=nord&custom_title=It-learning-diary%20Contribution%20Graph)
@@ -41,25 +62,7 @@
 
 </p>
 
-<h2>
-Self-Introduction
-</h2>
 
-<br/>
-
- &emsp;&emsp;**一个只搞干货的博主！** CSDN、知乎、今日头条、公众号等平台优质博主！全网粉丝1w+,致力于打造属于技术人自己的圈子，拓展技术人的人脉，资源！学习、转载、投稿、互推、合作等欢迎添加
- 如果对你有帮助，**请给博主【Star】和【Watch】**!
- 
- <br/>
- 
- &emsp;&emsp;**技术圈子：** 免费分享学习路线、面试干货、收费资源、成长感悟，希望借助此平台打造属于技术人的圈子！通过圈子的人脉和资源，跳出技术人35岁的门槛，期待志同道合的伙伴加入，共同维护圈子！<a href="https://app.yinxiang.com/fx/93d441d2-7cb6-4c13-9b16-5d2df3085984" title="技术圈子" target="_blank">**技术圈子直通车** </a> <br/>
- 
- <br/>
- 
- ![蓝色水波纹时尚类横版图文配图](https://user-images.githubusercontent.com/43887201/133605539-e861f964-fab7-485f-8a24-59f0832d1155.jpg)
-
-  <br/>
-  
 <h2>
 Catalog(Use: Ctrl +F)
 </h2>
